@@ -1,24 +1,27 @@
-# medical-app
 
-## Project setup
-```
-yarn install
-```
+<h2 align="center">
+   <p> App para práticar VUE.js </p>
+</h2>
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/juliano-soares/App-Vue-Pratica-01">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+</p>
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-### Lints and fixes files
-```
-yarn lint
-```
+<br>
+<h3>Imagens:<h3>
+<p align="center">
+  <img alt="Protótipo" width="800" src="./src/assets/img1.png">
+</p>
+  
+## :rocket: Tecnologias
+- VueJS
+- Vuetify
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## :computer: Projeto
+> Projeto feito a partir de um vídeo do youtube.
